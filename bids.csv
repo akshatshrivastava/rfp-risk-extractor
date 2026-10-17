@@ -1,0 +1,29 @@
+bid_id,tender_name,client_name,country,region,scope_of_work,contract_type,contract_value_usd_m,submission_date,bid_status,bid_manager,target_margin_pct
+BID-2025-101,Najd Installation Support 2025,Najd Offshore Operations,Saudi Arabia,MENA,Umbilical & riser installation support,Lump Sum,67.6,2025-01-17,Lost,J. Okafor,21.4
+BID-2025-102,Gulf Meridian Pipeline Inspection 2025,Gulf Meridian Energy,UAE,MENA,Subsea pipeline inspection campaign,Schedule of Rates,5.8,2025-02-11,Won,P. Iyer,20.9
+BID-2025-103,Al Rayyan Life-of-Field ROV 2025,Al Rayyan Petroleum Company,Qatar,MENA,Life-of-field ROV & tooling services,Lump Sum,39.9,2025-03-01,Lost,M. Eriksen,12.7
+BID-2025-104,Andaman Installation Support 2025,Andaman Deepwater Sdn Bhd,Malaysia,APAC,Umbilical & riser installation support,Lump Sum,58.8,2025-03-23,Won,R. Menon,17.4
+BID-2025-105,Coral Sea Life-of-Field ROV 2025,Coral Sea Gas Pty Ltd,Australia,APAC,Life-of-field ROV & tooling services,Day Rate,93.7,2025-04-19,Lost,M. Eriksen,21.3
+BID-2025-106,Mekong Basin Life-of-Field ROV 2025,Mekong Basin Petroleum JV,Vietnam,APAC,Life-of-field ROV & tooling services,Day Rate,83.8,2025-05-18,Lost,J. Okafor,23.0
+BID-2025-107,Bay of Bengal Life-of-Field ROV 2025,Bay of Bengal Energy Ltd,India,APAC,Life-of-field ROV & tooling services,Lump Sum,65.4,2025-06-03,Lost,L. Tan,10.6
+BID-2025-108,Nordhavn Subsea IMR 2025,Nordhavn Energi AS,Norway,Europe,"ROV inspection, repair & maintenance (IMR)",Day Rate,19.4,2025-07-02,Won,L. Tan,16.3
+BID-2025-109,Celtic Basin Installation Support 2025,Celtic Basin Resources plc,United Kingdom,Europe,Umbilical & riser installation support,Lump Sum,52.7,2025-07-29,Won,P. Iyer,12.4
+BID-2025-110,Gulf Coast Decommissioning 2025,Gulf Coast Subsea Holdings,United States,North America,Decommissioning support - subsea removal,Lump Sum + Day Rate hybrid,28.0,2025-08-17,Won,M. Eriksen,15.9
+BID-2025-111,Atlantic Margin Installation Support 2025,Atlantic Margin Wind LLC,United States,North America,Umbilical & riser installation support,Lump Sum,56.0,2025-09-13,Won,R. Menon,22.6
+BID-2025-112,Bay of Bengal Installation Support 2025,Bay of Bengal Energy Ltd,India,APAC,Umbilical & riser installation support,Schedule of Rates,45.5,2025-10-06,Won,R. Menon,19.3
+BID-2025-113,Nordhavn Pipeline Inspection 2025,Nordhavn Energi AS,Norway,Europe,Subsea pipeline inspection campaign,Lump Sum + Day Rate hybrid,21.7,2025-10-29,Lost,R. Menon,16.3
+BID-2025-114,Nordhavn Survey & Positioning 2025,Nordhavn Energi AS,Norway,Europe,Offshore survey & positioning services,Day Rate,3.9,2025-11-18,Lost,S. Al-Harbi,13.2
+BID-2025-115,Andaman Subsea IMR 2025,Andaman Deepwater Sdn Bhd,Malaysia,APAC,"ROV inspection, repair & maintenance (IMR)",Day Rate,39.6,2025-12-18,Won,L. Tan,11.4
+BID-2026-116,Coral Sea Life-of-Field ROV 2026,Coral Sea Gas Pty Ltd,Australia,APAC,Life-of-field ROV & tooling services,Lump Sum + Day Rate hybrid,70.3,2026-01-08,Won,P. Iyer,10.6
+BID-2026-117,Al Rayyan Installation Support 2026,Al Rayyan Petroleum Company,Qatar,MENA,Umbilical & riser installation support,Day Rate,19.6,2026-02-01,Won,R. Menon,10.4
+BID-2026-118,Bay of Bengal Survey & Positioning 2026,Bay of Bengal Energy Ltd,India,APAC,Offshore survey & positioning services,Lump Sum + Day Rate hybrid,9.9,2026-02-26,No-Bid,M. Eriksen,23.9
+BID-2026-119,Andaman Decommissioning 2026,Andaman Deepwater Sdn Bhd,Malaysia,APAC,Decommissioning support - subsea removal,Schedule of Rates,33.2,2026-03-26,Lost,S. Al-Harbi,23.3
+BID-2026-120,Andaman Pipeline Inspection 2026,Andaman Deepwater Sdn Bhd,Malaysia,APAC,Subsea pipeline inspection campaign,Schedule of Rates,9.5,2026-04-15,Lost,R. Menon,14.9
+BID-2026-121,Gulf Coast Pipeline Inspection 2026,Gulf Coast Subsea Holdings,United States,North America,Subsea pipeline inspection campaign,Day Rate,15.1,2026-05-08,Won,M. Eriksen,10.0
+BID-2026-122,Celtic Basin Decommissioning 2026,Celtic Basin Resources plc,United Kingdom,Europe,Decommissioning support - subsea removal,Lump Sum + Day Rate hybrid,21.8,2026-06-01,Lost,P. Iyer,12.4
+BID-2026-123,Gulf Coast Survey & Positioning 2026,Gulf Coast Subsea Holdings,United States,North America,Offshore survey & positioning services,Day Rate,9.3,2026-06-30,No-Bid,S. Al-Harbi,12.6
+BID-2026-124,Mekong Basin Life-of-Field ROV 2026,Mekong Basin Petroleum JV,Vietnam,APAC,Life-of-field ROV & tooling services,Lump Sum + Day Rate hybrid,41.9,2026-07-18,Submitted,L. Tan,16.0
+BID-2026-125,Bay of Bengal Subsea IMR 2026,Bay of Bengal Energy Ltd,India,APAC,"ROV inspection, repair & maintenance (IMR)",Day Rate,29.3,2026-08-09,Submitted,J. Okafor,20.4
+BID-2026-126,Al Rayyan Pipeline Inspection 2026,Al Rayyan Petroleum Company,Qatar,MENA,Subsea pipeline inspection campaign,Day Rate,20.4,2026-09-07,Submitted,J. Okafor,10.4
+BID-2026-127,Atlantic Margin Installation Support 2026,Atlantic Margin Wind LLC,United States,North America,Umbilical & riser installation support,Day Rate,61.5,2026-09-27,Submitted,S. Al-Harbi,9.7
+BID-2026-128,Gulf Coast Life-of-Field ROV 2026,Gulf Coast Subsea Holdings,United States,North America,Life-of-field ROV & tooling services,Schedule of Rates,83.3,2026-10-22,In Preparation,M. Eriksen,21.4

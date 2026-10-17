@@ -1,0 +1,287 @@
+clause_id,bid_id,section_ref,clause_category,clause_text
+CL-0001,BID-2025-101,10.4,Liquidated Damages,"Liquidated damages of 0.1% of the Contract Price per week of delay apply, capped at 5% of the Contract Price, as Company's sole and exclusive remedy for delay."
+CL-0002,BID-2025-101,11.6,Limitation of Liability,"Contractor's total aggregate liability shall not exceed 100% of the Contract Price, save for liabilities under the indemnities and for wilful misconduct."
+CL-0003,BID-2025-101,12.5,Consequential Loss,"Each Party shall release, indemnify and hold harmless the other Party's Group from its own Consequential Loss, howsoever arising, including negligence."
+CL-0004,BID-2025-101,13.5,Indemnity,"The Parties adopt a knock-for-knock indemnity regime for people and property, except that Contractor shall bear third-party claims to the extent caused by its negligence."
+CL-0005,BID-2025-101,14.4,Payment Terms,Payment shall be made within 60 days of receipt of a correct invoice. Late payments shall not attract interest.
+CL-0006,BID-2025-101,16.6,Performance Bond,"Contractor shall furnish an unconditional performance bond equal to 10% of the Contract Price, valid until Final Acceptance."
+CL-0007,BID-2025-101,18.3,Local Content,Contractor shall achieve minimum in-country value of 40% of the Contract Price. Shortfall shall be deducted from payments at twice the shortfall percentage.
+CL-0008,BID-2025-101,19.6,Termination,Company may terminate for convenience at any time on 7 days' notice. Contractor shall be entitled only to payment for Work performed up to termination.
+CL-0009,BID-2025-101,20.2,Force Majeure & Weather,Adverse weather and sea-state conditions shall not constitute Force Majeure. Contractor shall bear all weather downtime within the Lump Sum.
+CL-0010,BID-2025-101,21.3,Governing Law & Disputes,"Disputes shall be referred to arbitration seated in the Company's country under local arbitration rules, in English."
+CL-0011,BID-2025-101,23.2,Change Orders,"Variations shall be valued using the Schedule of Rates where applicable, otherwise by agreement, prior to execution where practicable."
+CL-0012,BID-2025-102,10.3,Liquidated Damages,"Liquidated damages for delay shall be 0.25% of the Contract Price per week, capped at 10% of the Contract Price, and shall be Company's sole remedy for delay."
+CL-0013,BID-2025-102,11.1,Limitation of Liability,"Contractor's total aggregate liability shall not exceed 100% of the Contract Price, save for liabilities under the indemnities and for wilful misconduct."
+CL-0014,BID-2025-102,12.6,Consequential Loss,"Contractor shall be liable for all losses suffered by Company, including loss of production, loss of profit and loss of use, arising from Contractor's breach."
+CL-0015,BID-2025-102,13.2,Indemnity,"Contractor shall indemnify Company Group against all claims for personal injury and property damage arising out of the Work, save to the extent caused by Company's sole negligence."
+CL-0016,BID-2025-102,14.5,Payment Terms,Payment shall be made within 60 days of receipt of a correct invoice. Late payments shall not attract interest.
+CL-0017,BID-2025-102,16.1,Performance Bond,"Contractor shall furnish an unconditional performance bond equal to 10% of the Contract Price, valid until Final Acceptance."
+CL-0018,BID-2025-102,18.4,Local Content,Contractor shall submit a local content plan and use reasonable endeavours to source 25% of services from in-country suppliers.
+CL-0019,BID-2025-102,22.4,Currency & FX,The Contract Price is denominated and payable in US Dollars.
+CL-0020,BID-2025-102,23.3,Change Orders,"Variations shall be valued using the Schedule of Rates where applicable, otherwise by agreement, prior to execution where practicable."
+CL-0021,BID-2025-103,10.6,Liquidated Damages,"Delay liquidated damages shall accrue at 0.5% of the Contract Price per day, subject to an aggregate cap of 20% of the Contract Price."
+CL-0022,BID-2025-103,11.3,Limitation of Liability,"Contractor's liability under or in connection with the Contract shall not be limited, save as expressly stated elsewhere in the Contract."
+CL-0023,BID-2025-103,12.6,Consequential Loss,"Each Party excludes liability for indirect and consequential loss, provided that loss of production caused by Contractor's gross negligence is recoverable by Company."
+CL-0024,BID-2025-103,13.3,Indemnity,"The Parties adopt a knock-for-knock indemnity regime for people and property, except that Contractor shall bear third-party claims to the extent caused by its negligence."
+CL-0025,BID-2025-103,14.3,Payment Terms,"Company shall pay undisputed invoices within 120 days of receipt. Disputed amounts may be withheld until final resolution, without interest."
+CL-0026,BID-2025-103,15.5,Retention,"Company shall retain 10% of each payment, to be released only upon expiry of the Defects Liability Period and issue of the Final Acceptance Certificate."
+CL-0027,BID-2025-103,16.3,Performance Bond,"Contractor shall provide an on-demand performance bond of 15% of the Contract Price, plus a Parent Company Guarantee covering all obligations, valid until 6 months after the warranty period."
+CL-0028,BID-2025-103,17.4,Warranty,Contractor warrants the Work for 36 months from Final Acceptance; any remedial work restarts the warranty period for the affected and associated parts.
+CL-0029,BID-2025-103,21.6,Governing Law & Disputes,"Disputes shall be referred to arbitration seated in the Company's country under local arbitration rules, in English."
+CL-0030,BID-2025-103,22.5,Currency & FX,"The Contract Price is fixed in local currency for the full contract duration, with no adjustment for exchange rate movements."
+CL-0031,BID-2025-104,10.6,Liquidated Damages,"Liquidated damages for delay shall be 0.25% of the Contract Price per week, capped at 10% of the Contract Price, and shall be Company's sole remedy for delay."
+CL-0032,BID-2025-104,11.4,Limitation of Liability,"Contractor's aggregate liability shall be limited to 200% of the Contract Price, excluding liabilities arising from pollution, which shall be unlimited."
+CL-0033,BID-2025-104,12.1,Consequential Loss,"Each Party shall release, indemnify and hold harmless the other Party's Group from its own Consequential Loss, howsoever arising, including negligence."
+CL-0034,BID-2025-104,13.1,Indemnity,"The Parties adopt a knock-for-knock indemnity regime for people and property, except that Contractor shall bear third-party claims to the extent caused by its negligence."
+CL-0035,BID-2025-104,14.1,Payment Terms,"Company shall pay undisputed invoices within 120 days of receipt. Disputed amounts may be withheld until final resolution, without interest."
+CL-0036,BID-2025-104,15.2,Retention,A retention of 5% shall be withheld from each invoice and released upon Mechanical Completion against a retention bond.
+CL-0037,BID-2025-104,16.5,Performance Bond,"A conditional performance bond of 5% of the Contract Price shall be provided, released at Mechanical Completion."
+CL-0038,BID-2025-104,17.1,Warranty,Contractor warrants that services are performed with reasonable skill and care; defects notified within 12 months shall be re-performed at Contractor's cost.
+CL-0039,BID-2025-104,19.3,Termination,"Company may terminate for convenience on 30 days' notice, paying for Work performed and reasonable demobilisation costs."
+CL-0040,BID-2025-104,21.1,Governing Law & Disputes,"Disputes shall be finally resolved by ICC arbitration seated in London (or Singapore), in English, under English law."
+CL-0041,BID-2025-104,22.2,Currency & FX,"The Contract Price is 60% USD and 40% local currency, with no exchange rate adjustment."
+CL-0042,BID-2025-104,23.4,Change Orders,"Variations shall be valued using the Schedule of Rates where applicable, otherwise by agreement, prior to execution where practicable."
+CL-0043,BID-2025-105,10.5,Liquidated Damages,"Liquidated damages of 0.1% of the Contract Price per week of delay apply, capped at 5% of the Contract Price, as Company's sole and exclusive remedy for delay."
+CL-0044,BID-2025-105,11.2,Limitation of Liability,"Contractor's total aggregate liability shall not exceed 50% of the Contract Price, which cap shall include all liquidated damages."
+CL-0045,BID-2025-105,12.3,Consequential Loss,"Each Party shall release, indemnify and hold harmless the other Party's Group from its own Consequential Loss, howsoever arising, including negligence."
+CL-0046,BID-2025-105,13.1,Indemnity,"Contractor shall indemnify Company Group against all claims for personal injury and property damage arising out of the Work, save to the extent caused by Company's sole negligence."
+CL-0047,BID-2025-105,14.1,Payment Terms,Payment shall be made within 30 days of receipt of a valid invoice. Late payment attracts interest at the central bank base rate plus 2%.
+CL-0048,BID-2025-105,15.2,Retention,A retention of 5% shall be withheld from each invoice and released upon Mechanical Completion against a retention bond.
+CL-0049,BID-2025-105,16.5,Performance Bond,"Contractor shall furnish an unconditional performance bond equal to 10% of the Contract Price, valid until Final Acceptance."
+CL-0050,BID-2025-105,18.1,Local Content,Contractor is encouraged to use local suppliers where commercially and technically competitive.
+CL-0051,BID-2025-105,20.4,Force Majeure & Weather,Weather downtime is paid at 80% of the operating day rate. Force Majeure excludes labour disputes affecting Contractor's personnel.
+CL-0052,BID-2025-105,22.5,Currency & FX,The Contract Price is denominated and payable in US Dollars.
+CL-0053,BID-2025-106,10.6,Liquidated Damages,"Contractor shall pay liquidated damages of 1.0% of the Contract Price per day of delay to Mechanical Completion, with no cap on the aggregate amount."
+CL-0054,BID-2025-106,11.1,Limitation of Liability,"Contractor's liability under or in connection with the Contract shall not be limited, save as expressly stated elsewhere in the Contract."
+CL-0055,BID-2025-106,12.5,Consequential Loss,"Contractor shall be liable for all losses suffered by Company, including loss of production, loss of profit and loss of use, arising from Contractor's breach."
+CL-0056,BID-2025-106,13.3,Indemnity,"Contractor shall indemnify Company Group against all claims for personal injury and property damage arising out of the Work, save to the extent caused by Company's sole negligence."
+CL-0057,BID-2025-106,14.4,Payment Terms,Payment shall be made within 30 days of receipt of a valid invoice. Late payment attracts interest at the central bank base rate plus 2%.
+CL-0058,BID-2025-106,16.1,Performance Bond,"Contractor shall provide an on-demand performance bond of 15% of the Contract Price, plus a Parent Company Guarantee covering all obligations, valid until 6 months after the warranty period."
+CL-0059,BID-2025-106,17.1,Warranty,Contractor warrants the Work for 36 months from Final Acceptance; any remedial work restarts the warranty period for the affected and associated parts.
+CL-0060,BID-2025-106,19.6,Termination,"Company may terminate for convenience on 30 days' notice, paying for Work performed and reasonable demobilisation costs."
+CL-0061,BID-2025-106,21.6,Governing Law & Disputes,"Disputes shall be finally resolved by ICC arbitration seated in London (or Singapore), in English, under English law."
+CL-0062,BID-2025-106,22.2,Currency & FX,"The Contract Price is 60% USD and 40% local currency, with no exchange rate adjustment."
+CL-0063,BID-2025-107,10.4,Liquidated Damages,"Liquidated damages of 0.1% of the Contract Price per week of delay apply, capped at 5% of the Contract Price, as Company's sole and exclusive remedy for delay."
+CL-0064,BID-2025-107,11.5,Limitation of Liability,"Contractor's total aggregate liability shall not exceed 50% of the Contract Price, which cap shall include all liquidated damages."
+CL-0065,BID-2025-107,12.1,Consequential Loss,"Each Party shall release, indemnify and hold harmless the other Party's Group from its own Consequential Loss, howsoever arising, including negligence."
+CL-0066,BID-2025-107,13.3,Indemnity,"The Parties adopt a knock-for-knock indemnity regime for people and property, except that Contractor shall bear third-party claims to the extent caused by its negligence."
+CL-0067,BID-2025-107,14.3,Payment Terms,Payment shall be made within 30 days of receipt of a valid invoice. Late payment attracts interest at the central bank base rate plus 2%.
+CL-0068,BID-2025-107,17.2,Warranty,Contractor warrants that services are performed with reasonable skill and care; defects notified within 12 months shall be re-performed at Contractor's cost.
+CL-0069,BID-2025-107,19.6,Termination,"Company may terminate for convenience on 30 days' notice, paying for Work performed and reasonable demobilisation costs."
+CL-0070,BID-2025-107,20.5,Force Majeure & Weather,Weather downtime is paid at 80% of the operating day rate. Force Majeure excludes labour disputes affecting Contractor's personnel.
+CL-0071,BID-2025-107,22.5,Currency & FX,The Contract Price is denominated and payable in US Dollars.
+CL-0072,BID-2025-107,23.2,Change Orders,No variation shall be performed without a signed Variation Order stating price and schedule impact.
+CL-0073,BID-2025-108,10.1,Liquidated Damages,"Contractor shall pay liquidated damages of 1.0% of the Contract Price per day of delay to Mechanical Completion, with no cap on the aggregate amount."
+CL-0074,BID-2025-108,11.2,Limitation of Liability,"Contractor's total aggregate liability shall not exceed 50% of the Contract Price, which cap shall include all liquidated damages."
+CL-0075,BID-2025-108,12.1,Consequential Loss,"Each Party shall release, indemnify and hold harmless the other Party's Group from its own Consequential Loss, howsoever arising, including negligence."
+CL-0076,BID-2025-108,13.2,Indemnity,"The Parties adopt a knock-for-knock indemnity regime for people and property, except that Contractor shall bear third-party claims to the extent caused by its negligence."
+CL-0077,BID-2025-108,14.6,Payment Terms,Payment shall be made within 60 days of receipt of a correct invoice. Late payments shall not attract interest.
+CL-0078,BID-2025-108,15.4,Retention,No retention shall apply to the Work.
+CL-0079,BID-2025-108,16.3,Performance Bond,"A conditional performance bond of 5% of the Contract Price shall be provided, released at Mechanical Completion."
+CL-0080,BID-2025-108,17.1,Warranty,"Contractor warrants the Work for 24 months from Mechanical Completion. Repaired items carry a fresh 12-month warranty, not exceeding 36 months in total."
+CL-0081,BID-2025-108,18.6,Local Content,Contractor is encouraged to use local suppliers where commercially and technically competitive.
+CL-0082,BID-2025-108,19.4,Termination,Company may terminate for convenience at any time on 7 days' notice. Contractor shall be entitled only to payment for Work performed up to termination.
+CL-0083,BID-2025-108,21.1,Governing Law & Disputes,"Disputes shall be finally resolved by ICC arbitration seated in London (or Singapore), in English, under English law."
+CL-0084,BID-2025-108,22.2,Currency & FX,"The Contract Price is 60% USD and 40% local currency, with no exchange rate adjustment."
+CL-0085,BID-2025-109,10.3,Liquidated Damages,"Liquidated damages for delay shall be 0.25% of the Contract Price per week, capped at 10% of the Contract Price, and shall be Company's sole remedy for delay."
+CL-0086,BID-2025-109,11.1,Limitation of Liability,"Contractor's aggregate liability shall be limited to 200% of the Contract Price, excluding liabilities arising from pollution, which shall be unlimited."
+CL-0087,BID-2025-109,12.5,Consequential Loss,"Contractor shall be liable for all losses suffered by Company, including loss of production, loss of profit and loss of use, arising from Contractor's breach."
+CL-0088,BID-2025-109,13.2,Indemnity,"Each Party shall be responsible for and indemnify the other against injury to its own personnel and loss of its own property, regardless of fault (mutual knock-for-knock)."
+CL-0089,BID-2025-109,14.5,Payment Terms,"Company shall pay undisputed invoices within 120 days of receipt. Disputed amounts may be withheld until final resolution, without interest."
+CL-0090,BID-2025-109,15.6,Retention,A retention of 5% shall be withheld from each invoice and released upon Mechanical Completion against a retention bond.
+CL-0091,BID-2025-109,18.1,Local Content,Contractor is encouraged to use local suppliers where commercially and technically competitive.
+CL-0092,BID-2025-109,20.5,Force Majeure & Weather,Weather downtime is paid at 80% of the operating day rate. Force Majeure excludes labour disputes affecting Contractor's personnel.
+CL-0093,BID-2025-109,21.6,Governing Law & Disputes,"The Contract is governed by local law. Disputes shall be resolved exclusively by the courts of the Company's domicile, in the local language."
+CL-0094,BID-2025-109,22.4,Currency & FX,"The Contract Price is fixed in local currency for the full contract duration, with no adjustment for exchange rate movements."
+CL-0095,BID-2025-109,23.3,Change Orders,"Variations shall be valued using the Schedule of Rates where applicable, otherwise by agreement, prior to execution where practicable."
+CL-0096,BID-2025-110,10.6,Liquidated Damages,"Liquidated damages of 0.1% of the Contract Price per week of delay apply, capped at 5% of the Contract Price, as Company's sole and exclusive remedy for delay."
+CL-0097,BID-2025-110,11.4,Limitation of Liability,"Contractor's total aggregate liability shall not exceed 50% of the Contract Price, which cap shall include all liquidated damages."
+CL-0098,BID-2025-110,12.4,Consequential Loss,"Each Party shall release, indemnify and hold harmless the other Party's Group from its own Consequential Loss, howsoever arising, including negligence."
+CL-0099,BID-2025-110,13.2,Indemnity,"The Parties adopt a knock-for-knock indemnity regime for people and property, except that Contractor shall bear third-party claims to the extent caused by its negligence."
+CL-0100,BID-2025-110,14.1,Payment Terms,Payment shall be made within 30 days of receipt of a valid invoice. Late payment attracts interest at the central bank base rate plus 2%.
+CL-0101,BID-2025-110,16.6,Performance Bond,"Contractor shall provide an on-demand performance bond of 15% of the Contract Price, plus a Parent Company Guarantee covering all obligations, valid until 6 months after the warranty period."
+CL-0102,BID-2025-110,18.2,Local Content,Contractor shall submit a local content plan and use reasonable endeavours to source 25% of services from in-country suppliers.
+CL-0103,BID-2025-110,20.2,Force Majeure & Weather,"Weather downtime is paid at 100% of the operating day rate. Force Majeure follows the standard industry definition, with a 30-day termination right for either Party."
+CL-0104,BID-2025-110,21.4,Governing Law & Disputes,"Disputes shall be finally resolved by ICC arbitration seated in London (or Singapore), in English, under English law."
+CL-0105,BID-2025-110,22.6,Currency & FX,The Contract Price is denominated and payable in US Dollars.
+CL-0106,BID-2025-111,10.5,Liquidated Damages,"Liquidated damages of 0.1% of the Contract Price per week of delay apply, capped at 5% of the Contract Price, as Company's sole and exclusive remedy for delay."
+CL-0107,BID-2025-111,11.1,Limitation of Liability,"Contractor's liability under or in connection with the Contract shall not be limited, save as expressly stated elsewhere in the Contract."
+CL-0108,BID-2025-111,12.2,Consequential Loss,"Each Party shall release, indemnify and hold harmless the other Party's Group from its own Consequential Loss, howsoever arising, including negligence."
+CL-0109,BID-2025-111,13.6,Indemnity,"The Parties adopt a knock-for-knock indemnity regime for people and property, except that Contractor shall bear third-party claims to the extent caused by its negligence."
+CL-0110,BID-2025-111,14.1,Payment Terms,Payment shall be made within 30 days of receipt of a valid invoice. Late payment attracts interest at the central bank base rate plus 2%.
+CL-0111,BID-2025-111,15.4,Retention,A retention of 5% shall be withheld from each invoice and released upon Mechanical Completion against a retention bond.
+CL-0112,BID-2025-111,17.4,Warranty,Contractor warrants that services are performed with reasonable skill and care; defects notified within 12 months shall be re-performed at Contractor's cost.
+CL-0113,BID-2025-111,18.4,Local Content,Contractor is encouraged to use local suppliers where commercially and technically competitive.
+CL-0114,BID-2025-111,22.5,Currency & FX,The Contract Price is denominated and payable in US Dollars.
+CL-0115,BID-2025-112,10.6,Liquidated Damages,"Delay liquidated damages shall accrue at 0.5% of the Contract Price per day, subject to an aggregate cap of 20% of the Contract Price."
+CL-0116,BID-2025-112,11.4,Limitation of Liability,"Contractor's total aggregate liability shall not exceed 50% of the Contract Price, which cap shall include all liquidated damages."
+CL-0117,BID-2025-112,12.1,Consequential Loss,"Each Party shall release, indemnify and hold harmless the other Party's Group from its own Consequential Loss, howsoever arising, including negligence."
+CL-0118,BID-2025-112,13.3,Indemnity,"The Parties adopt a knock-for-knock indemnity regime for people and property, except that Contractor shall bear third-party claims to the extent caused by its negligence."
+CL-0119,BID-2025-112,14.2,Payment Terms,"Company shall pay undisputed invoices within 120 days of receipt. Disputed amounts may be withheld until final resolution, without interest."
+CL-0120,BID-2025-112,15.6,Retention,"Company shall retain 10% of each payment, to be released only upon expiry of the Defects Liability Period and issue of the Final Acceptance Certificate."
+CL-0121,BID-2025-112,16.2,Performance Bond,"A conditional performance bond of 5% of the Contract Price shall be provided, released at Mechanical Completion."
+CL-0122,BID-2025-112,18.4,Local Content,Contractor shall achieve minimum in-country value of 40% of the Contract Price. Shortfall shall be deducted from payments at twice the shortfall percentage.
+CL-0123,BID-2025-112,19.4,Termination,"Company may terminate for convenience on 30 days' notice, paying for Work performed, demobilisation and committed costs, plus a termination fee of 5% of the unearned value."
+CL-0124,BID-2025-112,20.2,Force Majeure & Weather,"Weather downtime is paid at 100% of the operating day rate. Force Majeure follows the standard industry definition, with a 30-day termination right for either Party."
+CL-0125,BID-2025-112,21.4,Governing Law & Disputes,"The Contract is governed by local law. Disputes shall be resolved exclusively by the courts of the Company's domicile, in the local language."
+CL-0126,BID-2025-112,23.6,Change Orders,"Contractor shall perform any variation instructed by Company. The value of variations shall be agreed after completion of the varied Work, and disputes shall not entitle Contractor to suspend."
+CL-0127,BID-2025-113,10.1,Liquidated Damages,"Contractor shall pay liquidated damages of 1.0% of the Contract Price per day of delay to Mechanical Completion, with no cap on the aggregate amount."
+CL-0128,BID-2025-113,11.3,Limitation of Liability,"Contractor's total aggregate liability shall not exceed 50% of the Contract Price, which cap shall include all liquidated damages."
+CL-0129,BID-2025-113,12.5,Consequential Loss,"Each Party shall release, indemnify and hold harmless the other Party's Group from its own Consequential Loss, howsoever arising, including negligence."
+CL-0130,BID-2025-113,13.4,Indemnity,"Each Party shall be responsible for and indemnify the other against injury to its own personnel and loss of its own property, regardless of fault (mutual knock-for-knock)."
+CL-0131,BID-2025-113,14.2,Payment Terms,Payment shall be made within 60 days of receipt of a correct invoice. Late payments shall not attract interest.
+CL-0132,BID-2025-113,16.1,Performance Bond,"A conditional performance bond of 5% of the Contract Price shall be provided, released at Mechanical Completion."
+CL-0133,BID-2025-113,17.6,Warranty,Contractor warrants that services are performed with reasonable skill and care; defects notified within 12 months shall be re-performed at Contractor's cost.
+CL-0134,BID-2025-113,18.4,Local Content,Contractor shall submit a local content plan and use reasonable endeavours to source 25% of services from in-country suppliers.
+CL-0135,BID-2025-113,19.6,Termination,"Company may terminate for convenience on 30 days' notice, paying for Work performed, demobilisation and committed costs, plus a termination fee of 5% of the unearned value."
+CL-0136,BID-2025-113,20.1,Force Majeure & Weather,"Weather downtime is paid at 100% of the operating day rate. Force Majeure follows the standard industry definition, with a 30-day termination right for either Party."
+CL-0137,BID-2025-113,21.1,Governing Law & Disputes,"Disputes shall be finally resolved by ICC arbitration seated in London (or Singapore), in English, under English law."
+CL-0138,BID-2025-113,22.6,Currency & FX,The Contract Price is denominated and payable in US Dollars.
+CL-0139,BID-2025-114,10.5,Liquidated Damages,"Liquidated damages of 0.1% of the Contract Price per week of delay apply, capped at 5% of the Contract Price, as Company's sole and exclusive remedy for delay."
+CL-0140,BID-2025-114,11.6,Limitation of Liability,"Contractor's total aggregate liability shall not exceed 50% of the Contract Price, which cap shall include all liquidated damages."
+CL-0141,BID-2025-114,12.6,Consequential Loss,"Each Party excludes liability for indirect and consequential loss, provided that loss of production caused by Contractor's gross negligence is recoverable by Company."
+CL-0142,BID-2025-114,13.1,Indemnity,"The Parties adopt a knock-for-knock indemnity regime for people and property, except that Contractor shall bear third-party claims to the extent caused by its negligence."
+CL-0143,BID-2025-114,14.4,Payment Terms,Payment shall be made within 30 days of receipt of a valid invoice. Late payment attracts interest at the central bank base rate plus 2%.
+CL-0144,BID-2025-114,17.1,Warranty,"Contractor warrants the Work for 24 months from Mechanical Completion. Repaired items carry a fresh 12-month warranty, not exceeding 36 months in total."
+CL-0145,BID-2025-114,18.6,Local Content,Contractor is encouraged to use local suppliers where commercially and technically competitive.
+CL-0146,BID-2025-114,19.3,Termination,"Company may terminate for convenience on 30 days' notice, paying for Work performed and reasonable demobilisation costs."
+CL-0147,BID-2025-114,20.5,Force Majeure & Weather,"Weather downtime is paid at 100% of the operating day rate. Force Majeure follows the standard industry definition, with a 30-day termination right for either Party."
+CL-0148,BID-2025-114,21.6,Governing Law & Disputes,"Disputes shall be referred to arbitration seated in the Company's country under local arbitration rules, in English."
+CL-0149,BID-2025-114,22.3,Currency & FX,The Contract Price is denominated and payable in US Dollars.
+CL-0150,BID-2025-114,23.3,Change Orders,No variation shall be performed without a signed Variation Order stating price and schedule impact.
+CL-0151,BID-2025-115,10.2,Liquidated Damages,"Contractor shall pay liquidated damages of 1.0% of the Contract Price per day of delay to Mechanical Completion, with no cap on the aggregate amount."
+CL-0152,BID-2025-115,11.4,Limitation of Liability,"Contractor's liability under or in connection with the Contract shall not be limited, save as expressly stated elsewhere in the Contract."
+CL-0153,BID-2025-115,12.1,Consequential Loss,"Contractor shall be liable for all losses suffered by Company, including loss of production, loss of profit and loss of use, arising from Contractor's breach."
+CL-0154,BID-2025-115,13.3,Indemnity,"The Parties adopt a knock-for-knock indemnity regime for people and property, except that Contractor shall bear third-party claims to the extent caused by its negligence."
+CL-0155,BID-2025-115,14.4,Payment Terms,Payment shall be made within 60 days of receipt of a correct invoice. Late payments shall not attract interest.
+CL-0156,BID-2025-115,15.6,Retention,A retention of 5% shall be withheld from each invoice and released upon Mechanical Completion against a retention bond.
+CL-0157,BID-2025-115,17.6,Warranty,"Contractor warrants the Work for 24 months from Mechanical Completion. Repaired items carry a fresh 12-month warranty, not exceeding 36 months in total."
+CL-0158,BID-2025-115,18.6,Local Content,Contractor shall achieve minimum in-country value of 40% of the Contract Price. Shortfall shall be deducted from payments at twice the shortfall percentage.
+CL-0159,BID-2025-115,20.1,Force Majeure & Weather,Weather downtime is paid at 80% of the operating day rate. Force Majeure excludes labour disputes affecting Contractor's personnel.
+CL-0160,BID-2025-115,21.6,Governing Law & Disputes,"Disputes shall be referred to arbitration seated in the Company's country under local arbitration rules, in English."
+CL-0161,BID-2025-115,22.5,Currency & FX,"The Contract Price is 60% USD and 40% local currency, with no exchange rate adjustment."
+CL-0162,BID-2025-115,23.4,Change Orders,"Variations shall be valued using the Schedule of Rates where applicable, otherwise by agreement, prior to execution where practicable."
+CL-0163,BID-2026-116,10.2,Liquidated Damages,"Liquidated damages for delay shall be 0.25% of the Contract Price per week, capped at 10% of the Contract Price, and shall be Company's sole remedy for delay."
+CL-0164,BID-2026-116,11.6,Limitation of Liability,"Contractor's total aggregate liability shall not exceed 100% of the Contract Price, save for liabilities under the indemnities and for wilful misconduct."
+CL-0165,BID-2026-116,12.5,Consequential Loss,"Each Party shall release, indemnify and hold harmless the other Party's Group from its own Consequential Loss, howsoever arising, including negligence."
+CL-0166,BID-2026-116,13.6,Indemnity,"Each Party shall be responsible for and indemnify the other against injury to its own personnel and loss of its own property, regardless of fault (mutual knock-for-knock)."
+CL-0167,BID-2026-116,14.2,Payment Terms,Payment shall be made within 30 days of receipt of a valid invoice. Late payment attracts interest at the central bank base rate plus 2%.
+CL-0168,BID-2026-116,16.5,Performance Bond,"Contractor shall provide an on-demand performance bond of 15% of the Contract Price, plus a Parent Company Guarantee covering all obligations, valid until 6 months after the warranty period."
+CL-0169,BID-2026-116,18.3,Local Content,Contractor shall submit a local content plan and use reasonable endeavours to source 25% of services from in-country suppliers.
+CL-0170,BID-2026-116,21.6,Governing Law & Disputes,"Disputes shall be finally resolved by ICC arbitration seated in London (or Singapore), in English, under English law."
+CL-0171,BID-2026-116,22.5,Currency & FX,The Contract Price is denominated and payable in US Dollars.
+CL-0172,BID-2026-117,10.2,Liquidated Damages,"Contractor shall pay liquidated damages of 1.0% of the Contract Price per day of delay to Mechanical Completion, with no cap on the aggregate amount."
+CL-0173,BID-2026-117,11.1,Limitation of Liability,"Contractor's total aggregate liability shall not exceed 100% of the Contract Price, save for liabilities under the indemnities and for wilful misconduct."
+CL-0174,BID-2026-117,12.5,Consequential Loss,"Each Party shall release, indemnify and hold harmless the other Party's Group from its own Consequential Loss, howsoever arising, including negligence."
+CL-0175,BID-2026-117,13.2,Indemnity,"The Parties adopt a knock-for-knock indemnity regime for people and property, except that Contractor shall bear third-party claims to the extent caused by its negligence."
+CL-0176,BID-2026-117,14.1,Payment Terms,"Company shall pay undisputed invoices within 120 days of receipt. Disputed amounts may be withheld until final resolution, without interest."
+CL-0177,BID-2026-117,15.1,Retention,No retention shall apply to the Work.
+CL-0178,BID-2026-117,17.3,Warranty,Contractor warrants the Work for 36 months from Final Acceptance; any remedial work restarts the warranty period for the affected and associated parts.
+CL-0179,BID-2026-117,18.4,Local Content,Contractor is encouraged to use local suppliers where commercially and technically competitive.
+CL-0180,BID-2026-117,19.4,Termination,Company may terminate for convenience at any time on 7 days' notice. Contractor shall be entitled only to payment for Work performed up to termination.
+CL-0181,BID-2026-117,23.4,Change Orders,"Variations shall be valued using the Schedule of Rates where applicable, otherwise by agreement, prior to execution where practicable."
+CL-0182,BID-2026-118,10.2,Liquidated Damages,"Liquidated damages for delay shall be 0.25% of the Contract Price per week, capped at 10% of the Contract Price, and shall be Company's sole remedy for delay."
+CL-0183,BID-2026-118,11.1,Limitation of Liability,"Contractor's aggregate liability shall be limited to 200% of the Contract Price, excluding liabilities arising from pollution, which shall be unlimited."
+CL-0184,BID-2026-118,12.6,Consequential Loss,"Each Party excludes liability for indirect and consequential loss, provided that loss of production caused by Contractor's gross negligence is recoverable by Company."
+CL-0185,BID-2026-118,13.6,Indemnity,"Each Party shall be responsible for and indemnify the other against injury to its own personnel and loss of its own property, regardless of fault (mutual knock-for-knock)."
+CL-0186,BID-2026-118,14.3,Payment Terms,Payment shall be made within 30 days of receipt of a valid invoice. Late payment attracts interest at the central bank base rate plus 2%.
+CL-0187,BID-2026-118,15.3,Retention,No retention shall apply to the Work.
+CL-0188,BID-2026-118,16.4,Performance Bond,"A conditional performance bond of 5% of the Contract Price shall be provided, released at Mechanical Completion."
+CL-0189,BID-2026-118,17.1,Warranty,Contractor warrants that services are performed with reasonable skill and care; defects notified within 12 months shall be re-performed at Contractor's cost.
+CL-0190,BID-2026-118,22.4,Currency & FX,"The Contract Price is 60% USD and 40% local currency, with no exchange rate adjustment."
+CL-0191,BID-2026-119,10.2,Liquidated Damages,"Liquidated damages of 0.1% of the Contract Price per week of delay apply, capped at 5% of the Contract Price, as Company's sole and exclusive remedy for delay."
+CL-0192,BID-2026-119,11.5,Limitation of Liability,"Contractor's total aggregate liability shall not exceed 100% of the Contract Price, save for liabilities under the indemnities and for wilful misconduct."
+CL-0193,BID-2026-119,12.4,Consequential Loss,"Contractor shall be liable for all losses suffered by Company, including loss of production, loss of profit and loss of use, arising from Contractor's breach."
+CL-0194,BID-2026-119,13.2,Indemnity,"The Parties adopt a knock-for-knock indemnity regime for people and property, except that Contractor shall bear third-party claims to the extent caused by its negligence."
+CL-0195,BID-2026-119,14.2,Payment Terms,Payment shall be made within 30 days of receipt of a valid invoice. Late payment attracts interest at the central bank base rate plus 2%.
+CL-0196,BID-2026-119,16.5,Performance Bond,"Contractor shall furnish an unconditional performance bond equal to 10% of the Contract Price, valid until Final Acceptance."
+CL-0197,BID-2026-119,17.2,Warranty,Contractor warrants that services are performed with reasonable skill and care; defects notified within 12 months shall be re-performed at Contractor's cost.
+CL-0198,BID-2026-119,18.1,Local Content,Contractor shall achieve minimum in-country value of 40% of the Contract Price. Shortfall shall be deducted from payments at twice the shortfall percentage.
+CL-0199,BID-2026-119,20.1,Force Majeure & Weather,Weather downtime is paid at 80% of the operating day rate. Force Majeure excludes labour disputes affecting Contractor's personnel.
+CL-0200,BID-2026-119,21.4,Governing Law & Disputes,"The Contract is governed by local law. Disputes shall be resolved exclusively by the courts of the Company's domicile, in the local language."
+CL-0201,BID-2026-120,10.6,Liquidated Damages,"Liquidated damages for delay shall be 0.25% of the Contract Price per week, capped at 10% of the Contract Price, and shall be Company's sole remedy for delay."
+CL-0202,BID-2026-120,11.1,Limitation of Liability,"Contractor's total aggregate liability shall not exceed 100% of the Contract Price, save for liabilities under the indemnities and for wilful misconduct."
+CL-0203,BID-2026-120,12.2,Consequential Loss,"Each Party excludes liability for indirect and consequential loss, provided that loss of production caused by Contractor's gross negligence is recoverable by Company."
+CL-0204,BID-2026-120,13.4,Indemnity,"The Parties adopt a knock-for-knock indemnity regime for people and property, except that Contractor shall bear third-party claims to the extent caused by its negligence."
+CL-0205,BID-2026-120,14.6,Payment Terms,Payment shall be made within 60 days of receipt of a correct invoice. Late payments shall not attract interest.
+CL-0206,BID-2026-120,15.1,Retention,A retention of 5% shall be withheld from each invoice and released upon Mechanical Completion against a retention bond.
+CL-0207,BID-2026-120,16.1,Performance Bond,"Contractor shall provide an on-demand performance bond of 15% of the Contract Price, plus a Parent Company Guarantee covering all obligations, valid until 6 months after the warranty period."
+CL-0208,BID-2026-120,20.2,Force Majeure & Weather,Weather downtime is paid at 80% of the operating day rate. Force Majeure excludes labour disputes affecting Contractor's personnel.
+CL-0209,BID-2026-120,22.2,Currency & FX,"The Contract Price is 60% USD and 40% local currency, with no exchange rate adjustment."
+CL-0210,BID-2026-120,23.2,Change Orders,"Variations shall be valued using the Schedule of Rates where applicable, otherwise by agreement, prior to execution where practicable."
+CL-0211,BID-2026-121,10.5,Liquidated Damages,"Liquidated damages for delay shall be 0.25% of the Contract Price per week, capped at 10% of the Contract Price, and shall be Company's sole remedy for delay."
+CL-0212,BID-2026-121,11.6,Limitation of Liability,"Contractor's aggregate liability shall be limited to 200% of the Contract Price, excluding liabilities arising from pollution, which shall be unlimited."
+CL-0213,BID-2026-121,12.2,Consequential Loss,"Each Party excludes liability for indirect and consequential loss, provided that loss of production caused by Contractor's gross negligence is recoverable by Company."
+CL-0214,BID-2026-121,13.6,Indemnity,"Contractor shall indemnify Company Group against all claims for personal injury and property damage arising out of the Work, save to the extent caused by Company's sole negligence."
+CL-0215,BID-2026-121,14.6,Payment Terms,Payment shall be made within 30 days of receipt of a valid invoice. Late payment attracts interest at the central bank base rate plus 2%.
+CL-0216,BID-2026-121,15.5,Retention,"Company shall retain 10% of each payment, to be released only upon expiry of the Defects Liability Period and issue of the Final Acceptance Certificate."
+CL-0217,BID-2026-121,19.4,Termination,"Company may terminate for convenience on 30 days' notice, paying for Work performed and reasonable demobilisation costs."
+CL-0218,BID-2026-121,20.5,Force Majeure & Weather,Weather downtime is paid at 80% of the operating day rate. Force Majeure excludes labour disputes affecting Contractor's personnel.
+CL-0219,BID-2026-121,22.6,Currency & FX,"The Contract Price is 60% USD and 40% local currency, with no exchange rate adjustment."
+CL-0220,BID-2026-122,10.6,Liquidated Damages,"Liquidated damages of 0.1% of the Contract Price per week of delay apply, capped at 5% of the Contract Price, as Company's sole and exclusive remedy for delay."
+CL-0221,BID-2026-122,11.2,Limitation of Liability,"Contractor's liability under or in connection with the Contract shall not be limited, save as expressly stated elsewhere in the Contract."
+CL-0222,BID-2026-122,12.1,Consequential Loss,"Each Party excludes liability for indirect and consequential loss, provided that loss of production caused by Contractor's gross negligence is recoverable by Company."
+CL-0223,BID-2026-122,13.6,Indemnity,"Each Party shall be responsible for and indemnify the other against injury to its own personnel and loss of its own property, regardless of fault (mutual knock-for-knock)."
+CL-0224,BID-2026-122,14.4,Payment Terms,Payment shall be made within 60 days of receipt of a correct invoice. Late payments shall not attract interest.
+CL-0225,BID-2026-122,17.6,Warranty,"Contractor warrants the Work for 24 months from Mechanical Completion. Repaired items carry a fresh 12-month warranty, not exceeding 36 months in total."
+CL-0226,BID-2026-122,18.5,Local Content,Contractor shall submit a local content plan and use reasonable endeavours to source 25% of services from in-country suppliers.
+CL-0227,BID-2026-122,20.4,Force Majeure & Weather,Weather downtime is paid at 80% of the operating day rate. Force Majeure excludes labour disputes affecting Contractor's personnel.
+CL-0228,BID-2026-122,22.2,Currency & FX,The Contract Price is denominated and payable in US Dollars.
+CL-0229,BID-2026-123,10.5,Liquidated Damages,"Liquidated damages for delay shall be 0.25% of the Contract Price per week, capped at 10% of the Contract Price, and shall be Company's sole remedy for delay."
+CL-0230,BID-2026-123,11.6,Limitation of Liability,"Contractor's total aggregate liability shall not exceed 100% of the Contract Price, save for liabilities under the indemnities and for wilful misconduct."
+CL-0231,BID-2026-123,12.6,Consequential Loss,"Each Party excludes liability for indirect and consequential loss, provided that loss of production caused by Contractor's gross negligence is recoverable by Company."
+CL-0232,BID-2026-123,13.4,Indemnity,"The Parties adopt a knock-for-knock indemnity regime for people and property, except that Contractor shall bear third-party claims to the extent caused by its negligence."
+CL-0233,BID-2026-123,14.5,Payment Terms,Payment shall be made within 30 days of receipt of a valid invoice. Late payment attracts interest at the central bank base rate plus 2%.
+CL-0234,BID-2026-123,15.4,Retention,"Company shall retain 10% of each payment, to be released only upon expiry of the Defects Liability Period and issue of the Final Acceptance Certificate."
+CL-0235,BID-2026-123,16.3,Performance Bond,"A conditional performance bond of 5% of the Contract Price shall be provided, released at Mechanical Completion."
+CL-0236,BID-2026-123,17.4,Warranty,Contractor warrants that services are performed with reasonable skill and care; defects notified within 12 months shall be re-performed at Contractor's cost.
+CL-0237,BID-2026-123,18.6,Local Content,Contractor shall achieve minimum in-country value of 40% of the Contract Price. Shortfall shall be deducted from payments at twice the shortfall percentage.
+CL-0238,BID-2026-123,20.3,Force Majeure & Weather,Weather downtime is paid at 80% of the operating day rate. Force Majeure excludes labour disputes affecting Contractor's personnel.
+CL-0239,BID-2026-123,23.1,Change Orders,"Contractor shall perform any variation instructed by Company. The value of variations shall be agreed after completion of the varied Work, and disputes shall not entitle Contractor to suspend."
+CL-0240,BID-2026-124,10.2,Liquidated Damages,"Delay liquidated damages shall accrue at 0.5% of the Contract Price per day, subject to an aggregate cap of 20% of the Contract Price."
+CL-0241,BID-2026-124,11.5,Limitation of Liability,"Contractor's aggregate liability shall be limited to 200% of the Contract Price, excluding liabilities arising from pollution, which shall be unlimited."
+CL-0242,BID-2026-124,12.5,Consequential Loss,"Contractor shall be liable for all losses suffered by Company, including loss of production, loss of profit and loss of use, arising from Contractor's breach."
+CL-0243,BID-2026-124,13.1,Indemnity,"The Parties adopt a knock-for-knock indemnity regime for people and property, except that Contractor shall bear third-party claims to the extent caused by its negligence."
+CL-0244,BID-2026-124,14.4,Payment Terms,"Company shall pay undisputed invoices within 120 days of receipt. Disputed amounts may be withheld until final resolution, without interest."
+CL-0245,BID-2026-124,16.6,Performance Bond,"Contractor shall provide an on-demand performance bond of 15% of the Contract Price, plus a Parent Company Guarantee covering all obligations, valid until 6 months after the warranty period."
+CL-0246,BID-2026-124,17.2,Warranty,Contractor warrants the Work for 36 months from Final Acceptance; any remedial work restarts the warranty period for the affected and associated parts.
+CL-0247,BID-2026-124,19.6,Termination,"Company may terminate for convenience on 30 days' notice, paying for Work performed and reasonable demobilisation costs."
+CL-0248,BID-2026-124,21.1,Governing Law & Disputes,"Disputes shall be finally resolved by ICC arbitration seated in London (or Singapore), in English, under English law."
+CL-0249,BID-2026-125,10.3,Liquidated Damages,"Liquidated damages of 0.1% of the Contract Price per week of delay apply, capped at 5% of the Contract Price, as Company's sole and exclusive remedy for delay."
+CL-0250,BID-2026-125,11.4,Limitation of Liability,"Contractor's total aggregate liability shall not exceed 50% of the Contract Price, which cap shall include all liquidated damages."
+CL-0251,BID-2026-125,12.6,Consequential Loss,"Each Party excludes liability for indirect and consequential loss, provided that loss of production caused by Contractor's gross negligence is recoverable by Company."
+CL-0252,BID-2026-125,13.1,Indemnity,"Each Party shall be responsible for and indemnify the other against injury to its own personnel and loss of its own property, regardless of fault (mutual knock-for-knock)."
+CL-0253,BID-2026-125,14.5,Payment Terms,Payment shall be made within 60 days of receipt of a correct invoice. Late payments shall not attract interest.
+CL-0254,BID-2026-125,16.2,Performance Bond,"Contractor shall provide an on-demand performance bond of 15% of the Contract Price, plus a Parent Company Guarantee covering all obligations, valid until 6 months after the warranty period."
+CL-0255,BID-2026-125,17.2,Warranty,"Contractor warrants the Work for 24 months from Mechanical Completion. Repaired items carry a fresh 12-month warranty, not exceeding 36 months in total."
+CL-0256,BID-2026-125,18.6,Local Content,Contractor shall submit a local content plan and use reasonable endeavours to source 25% of services from in-country suppliers.
+CL-0257,BID-2026-125,21.3,Governing Law & Disputes,"Disputes shall be finally resolved by ICC arbitration seated in London (or Singapore), in English, under English law."
+CL-0258,BID-2026-125,22.1,Currency & FX,The Contract Price is denominated and payable in US Dollars.
+CL-0259,BID-2026-126,10.2,Liquidated Damages,"Contractor shall pay liquidated damages of 1.0% of the Contract Price per day of delay to Mechanical Completion, with no cap on the aggregate amount."
+CL-0260,BID-2026-126,11.3,Limitation of Liability,"Contractor's total aggregate liability shall not exceed 50% of the Contract Price, which cap shall include all liquidated damages."
+CL-0261,BID-2026-126,12.5,Consequential Loss,"Contractor shall be liable for all losses suffered by Company, including loss of production, loss of profit and loss of use, arising from Contractor's breach."
+CL-0262,BID-2026-126,13.6,Indemnity,"Each Party shall be responsible for and indemnify the other against injury to its own personnel and loss of its own property, regardless of fault (mutual knock-for-knock)."
+CL-0263,BID-2026-126,14.6,Payment Terms,"Company shall pay undisputed invoices within 120 days of receipt. Disputed amounts may be withheld until final resolution, without interest."
+CL-0264,BID-2026-126,15.1,Retention,A retention of 5% shall be withheld from each invoice and released upon Mechanical Completion against a retention bond.
+CL-0265,BID-2026-126,16.3,Performance Bond,"Contractor shall furnish an unconditional performance bond equal to 10% of the Contract Price, valid until Final Acceptance."
+CL-0266,BID-2026-126,20.6,Force Majeure & Weather,"Weather downtime is paid at 100% of the operating day rate. Force Majeure follows the standard industry definition, with a 30-day termination right for either Party."
+CL-0267,BID-2026-126,22.1,Currency & FX,"The Contract Price is fixed in local currency for the full contract duration, with no adjustment for exchange rate movements."
+CL-0268,BID-2026-126,23.6,Change Orders,"Variations shall be valued using the Schedule of Rates where applicable, otherwise by agreement, prior to execution where practicable."
+CL-0269,BID-2026-127,10.1,Liquidated Damages,"Liquidated damages of 0.1% of the Contract Price per week of delay apply, capped at 5% of the Contract Price, as Company's sole and exclusive remedy for delay."
+CL-0270,BID-2026-127,11.1,Limitation of Liability,"Contractor's total aggregate liability shall not exceed 50% of the Contract Price, which cap shall include all liquidated damages."
+CL-0271,BID-2026-127,12.1,Consequential Loss,"Each Party shall release, indemnify and hold harmless the other Party's Group from its own Consequential Loss, howsoever arising, including negligence."
+CL-0272,BID-2026-127,13.5,Indemnity,"Each Party shall be responsible for and indemnify the other against injury to its own personnel and loss of its own property, regardless of fault (mutual knock-for-knock)."
+CL-0273,BID-2026-127,14.1,Payment Terms,Payment shall be made within 30 days of receipt of a valid invoice. Late payment attracts interest at the central bank base rate plus 2%.
+CL-0274,BID-2026-127,15.3,Retention,A retention of 5% shall be withheld from each invoice and released upon Mechanical Completion against a retention bond.
+CL-0275,BID-2026-127,18.6,Local Content,Contractor shall submit a local content plan and use reasonable endeavours to source 25% of services from in-country suppliers.
+CL-0276,BID-2026-127,21.2,Governing Law & Disputes,"Disputes shall be finally resolved by ICC arbitration seated in London (or Singapore), in English, under English law."
+CL-0277,BID-2026-127,22.4,Currency & FX,"The Contract Price is 60% USD and 40% local currency, with no exchange rate adjustment."
+CL-0278,BID-2026-128,10.4,Liquidated Damages,"Delay liquidated damages shall accrue at 0.5% of the Contract Price per day, subject to an aggregate cap of 20% of the Contract Price."
+CL-0279,BID-2026-128,11.4,Limitation of Liability,"Contractor's liability under or in connection with the Contract shall not be limited, save as expressly stated elsewhere in the Contract."
+CL-0280,BID-2026-128,12.2,Consequential Loss,"Each Party excludes liability for indirect and consequential loss, provided that loss of production caused by Contractor's gross negligence is recoverable by Company."
+CL-0281,BID-2026-128,13.4,Indemnity,"The Parties adopt a knock-for-knock indemnity regime for people and property, except that Contractor shall bear third-party claims to the extent caused by its negligence."
+CL-0282,BID-2026-128,14.4,Payment Terms,Payment shall be made within 30 days of receipt of a valid invoice. Late payment attracts interest at the central bank base rate plus 2%.
+CL-0283,BID-2026-128,16.5,Performance Bond,"Contractor shall provide an on-demand performance bond of 15% of the Contract Price, plus a Parent Company Guarantee covering all obligations, valid until 6 months after the warranty period."
+CL-0284,BID-2026-128,19.3,Termination,"Company may terminate for convenience on 30 days' notice, paying for Work performed and reasonable demobilisation costs."
+CL-0285,BID-2026-128,21.2,Governing Law & Disputes,"Disputes shall be referred to arbitration seated in the Company's country under local arbitration rules, in English."
+CL-0286,BID-2026-128,22.6,Currency & FX,"The Contract Price is 60% USD and 40% local currency, with no exchange rate adjustment."
